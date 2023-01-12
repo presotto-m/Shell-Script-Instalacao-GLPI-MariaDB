@@ -21,3 +21,8 @@ A instalação completa instalará o seguinte:
 
 * GLPI
 * MariaDB
+
+# Acesso ao GLPI Interface:
+
+* http://localhost/glpi
+* User (glpi) senha (glpi)
