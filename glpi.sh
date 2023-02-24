@@ -37,7 +37,7 @@ php /var/www/html/glpi/bin/console glpi:database:install --db-host=localhost --d
 chown www-data. /var/www/html/glpi/files -Rf
 
 # Removendo diretorio install.php
-rm -fr /var/www/glpi/install/install.php
+rm -fr /var/www/html/glpi/install/install.php
 
 #habilitando e reiniciando apache2
 systemctl enable apache2
